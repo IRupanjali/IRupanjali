@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Penguin GIF" width="150"/><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=500&lines=👋+Hi%2C+I'm+Rupanjali+Singh;🚀+Research+Engineer+%7C+Bioinformatics+%7C+AI+%7C+ML" alt="Typing SVG"/>
 </h1>
 
@@ -13,8 +12,19 @@
 
 ### 💡 About Me
 
-- 🎓 M.Tech in Bioscience & Bioengineering | IIT Jodhpur  
-- 💻 Passionate about Data Science, Machine Learning, Artificial Intelligence and Computational Biology  
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://media.giphy.com/media/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Penguin GIF" width="150"/>
+    </td>
+    <td>
+      <ul>
+        <li>🎓 M.Tech in Bioscience & Bioengineering | IIT Jodhpur</li>
+        <li>💻 Passionate about Data Science, Machine Learning, Artificial Intelligence and Computational Biology</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
