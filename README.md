@@ -14,14 +14,14 @@
 
 <table>
   <tr>
-    <td width="160">
-      <img src="https://media.giphy.com/media/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Penguin GIF" width="150"/>
-    </td>
     <td>
       <ul>
         <li>🎓 M.Tech in Bioscience & Bioengineering | IIT Jodhpur</li>
         <li>💻 Passionate about Data Science, Machine Learning, Artificial Intelligence and Computational Biology</li>
       </ul>
+    </td>
+    <td width="160">
+      <img src="https://media.giphy.com/media/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Penguin GIF" width="150"/>
     </td>
   </tr>
 </table>
